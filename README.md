@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
