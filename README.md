@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
