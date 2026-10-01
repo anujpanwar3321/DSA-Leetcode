@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0567-permutation-in-string) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
