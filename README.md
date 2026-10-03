@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
