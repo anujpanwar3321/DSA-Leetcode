@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -127,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
