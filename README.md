@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -130,6 +131,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0476-number-complement) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
