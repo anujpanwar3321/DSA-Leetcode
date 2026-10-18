@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0090-subsets-ii) |
+| [0217-contains-duplicate](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
