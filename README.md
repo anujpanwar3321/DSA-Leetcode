@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0217-contains-duplicate) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0090-subsets-ii) |
 ## Z Algorithm
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
