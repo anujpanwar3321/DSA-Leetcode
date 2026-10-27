@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1920-build-array-from-permutation](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
