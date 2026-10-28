@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0443-string-compression) |
