@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0875-koko-eating-bananas](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anujpanwar3321/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
